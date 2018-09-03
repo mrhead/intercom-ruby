@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/api_operations/list'
 require 'intercom/api_operations/find_all'
 require 'intercom/api_operations/find'

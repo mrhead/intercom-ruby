@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Intercom
   module Utils
     class << self

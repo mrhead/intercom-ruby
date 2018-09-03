@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Intercom
   class MisconfiguredClientError < StandardError; end
   class Client

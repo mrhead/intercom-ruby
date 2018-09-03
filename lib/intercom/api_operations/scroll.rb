@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/scroll_collection_proxy'
 require 'intercom/utils'
 

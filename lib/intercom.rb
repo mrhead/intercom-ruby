@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require "intercom/version"
 require 'intercom/service/admin'
 require 'intercom/service/company'

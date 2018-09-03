@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/client_collection_proxy'
 
 module Intercom

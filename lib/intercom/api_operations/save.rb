@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/utils'
 require 'ext/sliceable_hash'
 

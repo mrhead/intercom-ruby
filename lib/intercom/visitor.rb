@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/traits/incrementable_attributes'
 require 'intercom/traits/api_resource'
 

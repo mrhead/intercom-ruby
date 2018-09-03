@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/client_collection_proxy'
 require 'intercom/service/base_service'
 require 'intercom/api_operations/save'

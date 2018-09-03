@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Intercom
 
   # Base class exception from which all public Intercom exceptions will be derived

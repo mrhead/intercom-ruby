@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 module Intercom
   module Options
     def options(*opts)

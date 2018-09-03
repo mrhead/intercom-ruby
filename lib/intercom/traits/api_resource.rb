@@ -1,3 +1,5 @@
+# frozen_string_literal: true
+
 require 'intercom/lib/flat_store'
 require 'intercom/lib/dynamic_accessors'
 require 'intercom/lib/dynamic_accessors_on_method_missing'
